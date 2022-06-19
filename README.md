@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ocpe
+- 👀 I’m interested in developing programs
+- 🌱 I’m currently learning C# javascript html
+- 📫 How to reach me https://discord.gg/webhook
